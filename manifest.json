@@ -1,0 +1,9 @@
+{
+  "name": "Runner Strength — Pecho + Core",
+  "short_name": "Runner Strength",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f5f2",
+  "theme_color": "#12251f",
+  "description": "Plan de pecho y core de 8 semanas para corredores."
+}
